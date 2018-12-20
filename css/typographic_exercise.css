@@ -1,0 +1,61 @@
+/*---- VERSION ONE font-family: 'EB Garamond', serif;------*/
+/*----- VERSION 3 SLAB font-family: 'Arvo', serif; ------*/
+/*--- font-family: 'Open Sans', sans-serif; ------*/
+
+/*------css reset------*/
+
+*{
+    padding: 0;
+    margin: 0;
+    font size:100%;
+    line-height: 1em;
+}
+/*-----MAIN STYLING-----*/
+ body {
+    width: 75%;
+    max-width: 600px;
+    margin: auto;
+    background: #fafafa;
+    color: #222;
+    font-family:'EB Garamond', serif;
+}
+/*--------INTRODUCTIONS-------*/
+.intro_one{
+    
+}
+
+.intro_two{
+    
+}
+
+.intro_three{
+    
+}
+/*-------FONT FAMALIES------*/
+.version_one{
+    
+}
+
+.version_two{
+    
+}
+
+.version_three{
+    
+}
+
+.version_three_font
+
+/*------BLOCKQUOTES------*/
+
+.one{
+    
+}
+
+.two{
+    
+}
+
+.three{
+    
+}
