@@ -1,0 +1,128 @@
+/*------css reset------*/
+
+*{
+    padding:0px;
+    margin: 0;
+    font size:100%;
+    line-height: 1em;
+}
+/*-----MAIN STYLING-----*/
+ body {
+    width: 75%;
+    max-width: 600px;
+    margin: auto;
+    background: #fafafa;
+    color: #222;
+    font-family:'EB Garamond', serif;
+}
+
+/*-------FONT FAMALIES------*/
+.version_one{
+    font-family:'EB Garamond', serif;   
+}
+
+.version_two{
+   font-family: 'Open Sans', sans-serif; 
+}
+
+.version_three{
+    font-family: 'Arvo', serif;
+}
+
+.version_three_font{
+  font-family: 'Open Sans', sans-serif;  
+}
+/*--------INTRODUCTIONS-------*/
+.intro_one{ 
+    font-size: 1.2em;
+    line-height: 1.1em;
+    margin-top: 2em; 
+    margin-bottom: 1.5em;
+}
+
+.intro_two{ 
+    font-size: 1.2em;
+    line-height: 1.3em;
+    margin-top: 2em; 
+    margin-bottom: 1.5em;  
+}
+
+.intro_three{ 
+    font-size: 1.2em;
+    line-height: 1.1em;
+    margin-top: 2em; 
+    margin-bottom: 1.5em;
+
+}
+/*------BLOCKQUOTES------*/
+
+.one{
+    hanging-punctuation: first;
+    padding: 1em 0 1em 0;
+    font-size: 1.2em;
+    line-height: 1.3em;
+    color:darkgrey;
+}
+
+.two{
+    hanging-punctuation: first;
+    padding: 1em 0 1em 0;
+    font-size: 1.2em;
+    line-height: 1.3em;
+    color:darkgrey;   
+}
+
+.three{
+    hanging-punctuation: first;
+    padding: 1em 0 1em 0;
+    font-size: 1.2em;
+    line-height: 1.3em;
+    color:darkgrey;
+    font-family: 'Arvo', serif; 
+    
+}
+blockquote cite {
+    font-size: 0.75em
+}
+
+/*------HEADERS------*/
+
+h1{
+    font-size: 4.2em;
+    margin-bottom: 0.1em;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin: .3em 0 0.5em 0;
+    font-weight: lighter;
+    
+}
+
+h3 {
+   font-size: 1em;
+    font-weight: lighter;
+}
+
+/*-----TYPOGRAPHY-----*/
+
+hr {
+    margin: 3em 0;
+    height: 1px;
+    background-color:#FF0000;
+    border: 0 none;
+    font-weight: 1px;
+
+}
+
+.B {
+    float: left;
+    font-size: 3.5em;
+    line-height: 0.5em;
+}
+
+.one_sub {
+    text-transform: uppercase;
+    
+}
